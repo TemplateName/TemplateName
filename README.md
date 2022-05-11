@@ -12,8 +12,8 @@
 - [Cybersecurity Roles, Processes & Operating System Security](https://www.coursera.org/account/accomplishments/certificate/R774WPSNFXJT)
 - [Network Security & Database Vulnerabilities](https://www.credly.com/earner/earned/badge/faa6172f-f8fa-46d6-965f-a543aa35b991)
 - [Introduction to Cybersecurity Tools & Cyber Attacks](https://www.credly.com/earner/earned/badge/2ffc4734-c8e2-47ee-b8ef-69d840692f62)
-- [SQL for Data Science] (https://www.coursera.org/account/accomplishments/certificate/A8GM2FG4SFS7)
-- [Getting Started with Power BI Desktop] (https://www.coursera.org/account/accomplishments/certificate/CXHEEZ53MFWP)
+- [SQL for Data Science](https://www.coursera.org/account/accomplishments/certificate/A8GM2FG4SFS7)
+- [Getting Started with Power BI Desktop](https://www.coursera.org/account/accomplishments/certificate/CXHEEZ53MFWP)
 
 <h2> 🤳 Connect with me:</h2>
 
