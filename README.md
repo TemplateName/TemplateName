@@ -8,10 +8,12 @@
 <h2>📺 Certifications </h2>
 
 - [Cybersecurity IT Fundamentals Specialization](https://www.credly.com/earner/earned/badge/0ad8762b-4382-45c8-9de0-81c9ec16ae24)
-- [Cybersecurity Compliance Framework & System Administration](https://www.credly.com/earner/earned/badge/d7d60a24-38b0-4824-8d64-d62f8be81c61)
-- [Cybersecurity Roles, Prcoesses & Operating System Security](https://www.credly.com/earner/earned/badge/25e07c4e-e8a5-460b-9c62-f96ba10fe471)
+- [Cybersecurity Compliance Framework & System Administration](https://www.coursera.org/account/accomplishments/certificate/3PMSF9WPS6ZP)
+- [Cybersecurity Roles, Processes & Operating System Security](https://www.coursera.org/account/accomplishments/certificate/R774WPSNFXJT)
 - [Network Security & Database Vulnerabilities](https://www.credly.com/earner/earned/badge/faa6172f-f8fa-46d6-965f-a543aa35b991)
 - [Introduction to Cybersecurity Tools & Cyber Attacks](https://www.credly.com/earner/earned/badge/2ffc4734-c8e2-47ee-b8ef-69d840692f62)
+- [SQL for Data Science] (https://www.coursera.org/account/accomplishments/certificate/A8GM2FG4SFS7)
+- [Getting Started with Power BI Desktop] (https://www.coursera.org/account/accomplishments/certificate/CXHEEZ53MFWP)
 
 <h2> 🤳 Connect with me:</h2>
 
