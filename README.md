@@ -1,4 +1,4 @@
-<h1>Hi, I'm Raymond! <br/><a href="https://github.com/TemplateName">Programmer</a>, <a href="https://www.linkedin.com/in/raymond-jerald-ignacio-082455156/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Raymond! <br/><a href="https://github.com/TemplateName">Programmer</a>, <a href="https://www.linkedin.com/in/raymond-jerald-ignacio-082455156/">Aspiring Cybersecurity Analyst</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
