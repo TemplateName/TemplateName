@@ -4,7 +4,7 @@
 
 - <b>Python</b>
   - [FIM (File Integrity Monitor)](https://github.com/TemplateName/FIM)
-  - [Simple Malware (Ransomware)](https://github.com/TemplateName/Simple_Ransomware)
+  - [Simple Ransomware](https://github.com/TemplateName/Simple_Ransomware)
 
 <h2>📺 Certifications </h2>
 
