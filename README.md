@@ -8,7 +8,7 @@
 
 <h2>📺 Certifications </h2>
 
-- [Cybersecurity IT Fundamentals Specialization](https://www.credly.com/earner/earned/badge/0ad8762b-4382-45c8-9de0-81c9ec16ae24)
+- [Cybersecurity IT Fundamentals Specialization](https://www.credly.com/badges/0ad8762b-4382-45c8-9de0-81c9ec16ae24/public_url)
 - [Cybersecurity Compliance Framework & System Administration](https://www.coursera.org/account/accomplishments/certificate/3PMSF9WPS6ZP)
 - [Cybersecurity Roles, Processes & Operating System Security](https://www.coursera.org/account/accomplishments/certificate/R774WPSNFXJT)
 - [Network Security & Database Vulnerabilities](https://www.credly.com/earner/earned/badge/faa6172f-f8fa-46d6-965f-a543aa35b991)
