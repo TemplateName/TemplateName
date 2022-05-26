@@ -8,6 +8,7 @@
 - <b>Python</b>
   - [FIM (File Integrity Monitor)](https://github.com/TemplateName/FIM)
   - [Simple Ransomware](https://github.com/TemplateName/Simple_Ransomware)
+  - Keylogger (work in progress)
 
 - <b>Azure</b>
   - SIEM (work in progress)
