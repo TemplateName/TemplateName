@@ -22,10 +22,10 @@
 - [Introduction to Cybersecurity Tools & Cyber Attacks](https://www.credly.com/badges/2ffc4734-c8e2-47ee-b8ef-69d840692f62/public_url)
 - [SQL for Data Science](https://www.coursera.org/account/accomplishments/certificate/A8GM2FG4SFS7)
 - [Getting Started with Power BI Desktop](https://www.coursera.org/account/accomplishments/certificate/CXHEEZ53MFWP)
-- [Cascading Style Sheets (CSS)]
-- [JavaScript Tutorial]
-- [HTML Fundamentals]
-- [SQL Fundamentals] 
+- [Cascading Style Sheets (CSS)](https://www.sololearn.com/Certificate/1023-18335026/pdf/)
+- [JavaScript Tutorial](https://www.sololearn.com/Certificate/1024-18335026/pdf/)
+- [HTML Fundamentals](https://www.sololearn.com/Certificate/1014-18335026/pdf/)
+- [SQL Fundamentals](https://www.sololearn.com/Certificate/1060-18335026/pdf/)
 
 <h2> 🤳 Connect with me:</h2>
 
