@@ -11,7 +11,7 @@
   - Keylogger (work in progress)
 
 - <b>Azure</b>
-  - SIEM (work in progress)
+  - Security Information and Event Management System (SIEM System) (work in progress)
 
 <h2>📺 Certifications </h2>
 
