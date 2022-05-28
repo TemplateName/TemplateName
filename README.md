@@ -13,6 +13,9 @@
 - <b>Azure</b>
   - Security Information and Event Management System (SIEM System) (work in progress)
 
+- <b>Powershell</b>
+  - Active Directory (work in progress)
+
 <h2>📺 Certifications </h2>
 
 - [Cybersecurity IT Fundamentals Specialization](https://www.credly.com/badges/0ad8762b-4382-45c8-9de0-81c9ec16ae24/public_url)
