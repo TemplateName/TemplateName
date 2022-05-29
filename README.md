@@ -1,4 +1,4 @@
-<h1>Hi, I'm Raymond! <br/><a href="https://github.com/TemplateName">Programmer</a>, <a href="https://www.linkedin.com/in/raymond-jerald-ignacio-082455156/">Aspiring Cybersecurity Analyst</a>, <a href="https://www.chess.com/member/vorixx">Chess Enthusiast</a></h1>
+<h1>Hi, I'm Raymond! <br/><a href="https://github.com/TemplateName">Programmer</a>, <a href="https://www.linkedin.com/in/raymond-jerald-ignacio-082455156/">Aspiring Cybersecurity Analyst</a>, <a href="https://github.com/TemplateName/Chess">Chess Enthusiast</a></h1>
 
 <p> Currently fixing my FIM repository* </p>
 
