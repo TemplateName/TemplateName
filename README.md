@@ -22,7 +22,7 @@
     - [IBM Cybersecurity Analyst Assessment]
   - [Security Analyst Fundamentals Specialization]
     - [Cybersecurity Capstone: Breach Response Case Studies]
-    - [Cyber Threat Intelligence]
+    - [Cyber Threat Intelligence](https://www.credly.com/badges/7e0f2752-72b2-4da7-ae3e-24b8eb8af411/public_url)
     -  [Penetration Testing, Incident Response and Forensics](https://www.credly.com/badges/a9a6cb9d-f4e3-4290-9eff-e8e38fc144fc/public_url)
   - [Cybersecurity IT Fundamentals Specialization](https://www.credly.com/badges/0ad8762b-4382-45c8-9de0-81c9ec16ae24/public_url)
     - [Network Security & Database Vulnerabilities](https://www.credly.com/badges/faa6172f-f8fa-46d6-965f-a543aa35b991/public_url)
