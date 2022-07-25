@@ -36,6 +36,10 @@
 - [HTML Fundamentals](https://www.sololearn.com/Certificate/1014-18335026/pdf/)
 - [SQL Fundamentals](https://www.sololearn.com/Certificate/1060-18335026/pdf/)
 
+<h2> :computer: Python Projects </h2>
+
+- [Simple Calculator]()
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="RaymondIgnacio | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
