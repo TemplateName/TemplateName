@@ -38,7 +38,7 @@
 
 <h2> :computer: Python Projects </h2>
 
-- [Simple Calculator]()
+- [Simple Calculator](https://github.com/TemplateName/PyProj_Calculator)
 
 <h2> 🏢 Daxko Interview Project </h2>
 
