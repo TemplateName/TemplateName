@@ -40,9 +40,9 @@
 
 - [Simple Calculator](https://github.com/TemplateName/PyProj_Calculator)
 
-<h2> 🏢 Daxko Interview Project </h2>
+<h2> 🏢 Interview Project </h2>
 
-- [Daxko Interview Project](https://github.com/TemplateName/DaxkoInterviewProject)
+- [Interview Project](https://github.com/TemplateName/DaxkoInterviewProject)
 
 
 
