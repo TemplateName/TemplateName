@@ -41,11 +41,6 @@
 
 - [Simple Calculator](https://github.com/TemplateName/PyProj_Calculator)
 
-<h2> 🏢 Interview Project </h2>
-
-- [Interview Project](https://github.com/TemplateName/DaxkoInterviewProject)
-
-
 
 <h2> 🤳 Connect with me:</h2>
 
