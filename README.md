@@ -35,7 +35,7 @@
 - [JavaScript Tutorial](https://www.sololearn.com/Certificate/1024-18335026/pdf/)
 - [HTML Fundamentals](https://www.sololearn.com/Certificate/1014-18335026/pdf/)
 - [SQL Fundamentals](https://www.sololearn.com/Certificate/1060-18335026/pdf/)
-- [Python for Finance](https://www.sololearn.com/Certificate/1139-18335026/jpg)
+- [Python for Finance](https://www.sololearn.com/Certificate/CT-KFNHWYLX/pdf)
 
 <h2> :computer: Python Projects </h2>
 
